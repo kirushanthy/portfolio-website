@@ -1,0 +1,29 @@
+#title {
+    color: rgb(144, 17, 194);
+    text-align: center; 
+    }
+
+h2 {
+    color: rgb(22, 85, 167);
+}
+
+table {
+     border: 1px solid rgb(229, 255, 0);
+     border-collapse: collapse;
+     text-align: left;
+}
+ td{
+    border: 1px solid rgb(12, 12, 199);
+    padding: 4px;
+ }
+ h3{
+    color: rgb(54, 14, 199) ;
+    text-align: left;
+    
+ }
+ p {
+      color: rgb(21, 7, 31); 
+}
+h3 {
+
+}
